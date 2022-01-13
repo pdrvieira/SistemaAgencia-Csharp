@@ -1,5 +1,5 @@
 # SistemaAgencia-Csharp
-Sistema de Agência bancária feito por mim com base em aulas promovidas pelo curso de c# do Alura.
+Sistema de agência bancária feito por mim com base em aulas promovidas pelo curso de c# do Alura.
 
 ### Habilidades
 
